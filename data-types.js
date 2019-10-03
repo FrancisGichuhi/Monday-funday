@@ -1,23 +1,13 @@
-//var myNum = 9
+var myNum = 9
 
+var Yes = true
 
-//let myObj = {}
+let myObj = {}
 
 var myArray = []
 
-//var today = new Date()
+var today = new Date()
 
-//var xMas2018 = new Date('2018-12-25')
+var xMas2018 = new Date('2018-12-25')
 
-var person = {
-    firstName: 'Franso',
-    lastName: 'Gichh',
-
-    toString: function() {
-    return this.firstName + ' -- ' + this.lastName
-    }
-    person.toString()
-}
-    
-}
 
